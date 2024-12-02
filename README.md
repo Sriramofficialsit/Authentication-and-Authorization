@@ -3,6 +3,7 @@
 This project is a Node.js application that implements user authentication and authorization using Express.js, Mongoose, and JWT. It follows the MVC pattern and provides endpoints for user registration, login, and profile retrieval. The application uses Bearer tokens for secure access to protected routes.
 
 #Features
+
 User Registration with hashed passwords.
 User Login with JWT generation.
 Middleware for token verification and user authentication.
